@@ -1,5 +1,4 @@
 "Programa de obtención de datos RGB de una imagen"
-"Autor: Irving David Rocha Gaona" 
 from PIL import Image
 import pickle
 import openpyxl
